@@ -1,0 +1,41 @@
+<svg width="380" height="230" viewBox="0 0 380 230" xmlns="http://www.w3.org/2000/svg" font-family="JetBrains Mono, Consolas, monospace">
+  <rect width="380" height="230" rx="10" fill="#0a0e27" stroke="#00F7FF" stroke-width="1.5"/>
+  <rect width="380" height="28" rx="10" fill="#111433"/>
+  <rect width="380" height="14" y="14" fill="#111433"/>
+  <circle cx="18" cy="14" r="5" fill="#ff5f56"/>
+  <circle cx="36" cy="14" r="5" fill="#ffbd2e"/>
+  <circle cx="54" cy="14" r="5" fill="#27c93f"/>
+  <text x="190" y="18" text-anchor="middle" fill="#7a7f9e" font-size="11">pedro@cakto:~</text>
+
+  <text x="16" y="55" fill="#00F7FF" font-size="13" opacity="0">$ whoami
+    <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.02;0.06;1" dur="12s" repeatCount="indefinite"/>
+  </text>
+  <text x="16" y="75" fill="#e6e6f0" font-size="13" opacity="0">pedro.daltoe — creative software architect
+    <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.08;0.12;1" dur="12s" repeatCount="indefinite"/>
+  </text>
+
+  <text x="16" y="105" fill="#00F7FF" font-size="13" opacity="0">$ cat stack.json
+    <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.18;0.22;1" dur="12s" repeatCount="indefinite"/>
+  </text>
+  <text x="16" y="125" fill="#e6e6f0" font-size="12" opacity="0">["React Native","React","Next.js","AWS"]
+    <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.24;0.28;1" dur="12s" repeatCount="indefinite"/>
+  </text>
+
+  <text x="16" y="155" fill="#00F7FF" font-size="13" opacity="0">$ ./deploy.sh --env=production
+    <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.34;0.38;1" dur="12s" repeatCount="indefinite"/>
+  </text>
+  <text x="16" y="175" fill="#27c93f" font-size="13" opacity="0">✔ deploy successful — 0 vulnerabilities
+    <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.4;0.44;1" dur="12s" repeatCount="indefinite"/>
+  </text>
+
+  <text x="16" y="205" fill="#00F7FF" font-size="13" opacity="0">$ status --security
+    <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.5;0.54;1" dur="12s" repeatCount="indefinite"/>
+  </text>
+  <text x="16" y="223" fill="#e6e6f0" font-size="12" opacity="0">bank-grade · ONLINE
+    <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.56;0.6;1" dur="12s" repeatCount="indefinite"/>
+  </text>
+
+  <rect x="152" y="211" width="8" height="14" fill="#00F7FF">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
