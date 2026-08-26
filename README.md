@@ -72,26 +72,14 @@
 
 <table>
 <tr>
-<td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=pedrodaltoe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" width="100%"/></td>
-<td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodaltoe&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" width="100%"/></td>
+<td width="50%"><img src="https://raw.githubusercontent.com/pedrodaltoe/pedrodaltoe/main/generated/overview.svg" width="100%"/></td>
+<td width="50%"><img src="https://raw.githubusercontent.com/pedrodaltoe/pedrodaltoe/main/generated/languages.svg" width="100%"/></td>
 </tr>
 </table>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pedrodaltoe&theme=tokyo-night&hide_border=true&bg_color=00000000&area=true"/>
-
 <img src="https://streak-stats.demolab.com?user=pedrodaltoe&theme=tokyonight&hide_border=true&background=00000000"/>
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=pedrodaltoe&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
 
 </div>
 

@@ -1,0 +1,23 @@
+name: generate github stats
+
+on:
+  schedule:
+    - cron: "0 */24 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    name: generate-github-stats-image
+    steps:
+      - name: generate-github-stats-image
+        uses: jstrieb/github-stats@master
+        with:
+          username: pedrodaltoe
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
