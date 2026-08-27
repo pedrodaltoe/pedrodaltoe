@@ -82,14 +82,18 @@ async function totalStars() {
 async function main() {
   const [c, stars] = await Promise.all([totalContributions(), totalStars()]);
 
+  // GitHub never breaks private contributions down by type through the API — it
+  // only reports them as one anonymised count — so the card labels the typed rows
+  // "public" instead of pretending the breakdown covers everything.
+  const publicContribs = c.commits + c.prs + c.reviews + c.issues;
+
   const rows = [
     ["Total Contributions", fmt(c.total), { highlight: true, rule: true }],
-    ["Commits", fmt(c.commits)],
-    ["Pull Requests", fmt(c.prs)],
-    ["PR Reviews", fmt(c.reviews)],
-    ["Issues", fmt(c.issues)],
-    ["Private / org work", fmt(c.restricted), { rule: true }],
-    ["Stars Earned", fmt(stars)],
+    ["Private / org work", fmt(c.restricted)],
+    ["Public contributions", fmt(publicContribs), { rule: true }],
+    ["Public commits", fmt(c.commits)],
+    ["Public pull requests", fmt(c.prs)],
+    ["Stars earned", fmt(stars)],
   ];
 
   const svg = statsCard({
