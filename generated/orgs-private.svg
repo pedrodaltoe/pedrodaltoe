@@ -1,26 +1,16 @@
-<svg width="380" height="296" viewBox="0 0 380 296" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Where I Ship">
-  <rect width="380" height="296" rx="10" fill="#0a0e27" stroke="#00F7FF" stroke-width="1"/>
+<svg width="380" height="188" viewBox="0 0 380 188" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Where I Ship">
+  <rect width="380" height="188" rx="10" fill="#0a0e27" stroke="#00F7FF" stroke-width="1"/>
   <text x="20" y="28" fill="#00F7FF" font-size="15" font-weight="bold" font-family="JetBrains Mono, DejaVu Sans Mono, Menlo, Consolas, monospace">Where I Ship</text>
   <line x1="20" y1="40" x2="360" y2="40" stroke="#252c52" stroke-width="1"/>
   <text x="20" y="58" fill="#e6e6f0" font-size="13" font-family="JetBrains Mono, DejaVu Sans Mono, Menlo, Consolas, monospace">Personal / OSS</text>
-  <text x="360" y="58" fill="#00F7FF" font-size="13" font-weight="bold" font-family="JetBrains Mono, DejaVu Sans Mono, Menlo, Consolas, monospace" text-anchor="end">379 commits</text>
+  <text x="360" y="58" fill="#00F7FF" font-size="13" font-weight="bold" font-family="JetBrains Mono, DejaVu Sans Mono, Menlo, Consolas, monospace" text-anchor="end">359 commits</text>
   <rect x="20" y="66" width="340" height="7" rx="3.5" fill="#252c52"/>
   <rect x="20" y="66" width="340.0" height="7" rx="3.5" fill="#00F7FF"/>
-  <text x="20" y="90" fill="#7a7f9e" font-size="10" font-family="JetBrains Mono, DejaVu Sans Mono, Menlo, Consolas, monospace">14 repos · 9 private</text>
+  <text x="20" y="90" fill="#7a7f9e" font-size="10" font-family="JetBrains Mono, DejaVu Sans Mono, Menlo, Consolas, monospace">8 repos · 7 private</text>
   <text x="20" y="112" fill="#e6e6f0" font-size="13" font-family="JetBrains Mono, DejaVu Sans Mono, Menlo, Consolas, monospace">Cakto</text>
   <text x="360" y="112" fill="#7C5CFF" font-size="13" font-weight="bold" font-family="JetBrains Mono, DejaVu Sans Mono, Menlo, Consolas, monospace" text-anchor="end">330 commits</text>
   <rect x="20" y="120" width="340" height="7" rx="3.5" fill="#252c52"/>
-  <rect x="20" y="120" width="296.0" height="7" rx="3.5" fill="#7C5CFF"/>
+  <rect x="20" y="120" width="312.5" height="7" rx="3.5" fill="#7C5CFF"/>
   <text x="20" y="144" fill="#7a7f9e" font-size="10" font-family="JetBrains Mono, DejaVu Sans Mono, Menlo, Consolas, monospace">2 repos · 2 private</text>
-  <text x="20" y="166" fill="#e6e6f0" font-size="13" font-family="JetBrains Mono, DejaVu Sans Mono, Menlo, Consolas, monospace">tiagolquevedo</text>
-  <text x="360" y="166" fill="#00D68F" font-size="13" font-weight="bold" font-family="JetBrains Mono, DejaVu Sans Mono, Menlo, Consolas, monospace" text-anchor="end">3 commits</text>
-  <rect x="20" y="174" width="340" height="7" rx="3.5" fill="#252c52"/>
-  <rect x="20" y="174" width="3.0" height="7" rx="3.5" fill="#00D68F"/>
-  <text x="20" y="198" fill="#7a7f9e" font-size="10" font-family="JetBrains Mono, DejaVu Sans Mono, Menlo, Consolas, monospace">1 repo · 1 private</text>
-  <text x="20" y="220" fill="#e6e6f0" font-size="13" font-family="JetBrains Mono, DejaVu Sans Mono, Menlo, Consolas, monospace">brunominosso</text>
-  <text x="360" y="220" fill="#FFB020" font-size="13" font-weight="bold" font-family="JetBrains Mono, DejaVu Sans Mono, Menlo, Consolas, monospace" text-anchor="end">1 commits</text>
-  <rect x="20" y="228" width="340" height="7" rx="3.5" fill="#252c52"/>
-  <rect x="20" y="228" width="3.0" height="7" rx="3.5" fill="#FFB020"/>
-  <text x="20" y="252" fill="#7a7f9e" font-size="10" font-family="JetBrains Mono, DejaVu Sans Mono, Menlo, Consolas, monospace">1 repo · 1 private</text>
-  <text x="20" y="288" fill="#7a7f9e" font-size="10" font-family="JetBrains Mono, DejaVu Sans Mono, Menlo, Consolas, monospace">Public + private + organization repos</text>
+  <text x="20" y="180" fill="#7a7f9e" font-size="10" font-family="JetBrains Mono, DejaVu Sans Mono, Menlo, Consolas, monospace">Public + private + organization repos</text>
 </svg>
