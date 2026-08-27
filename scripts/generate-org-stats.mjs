@@ -19,6 +19,10 @@ const ORG_ALIASES = {
 // Optional: only these owners are shown (empty array = show everything).
 const ONLY_OWNERS = [];
 
+// Owners below this many commits are hidden, so one-off collaborations on other
+// people's private repos do not end up on the public card.
+const MIN_COMMITS = 10;
+
 const COLORS = ["#00F7FF", "#7C5CFF", "#00D68F", "#FFB020", "#FF6B6B"];
 
 /** Commit count via the Link header, so we never page through thousands of commits. */
@@ -54,7 +58,7 @@ async function main() {
     if (ONLY_OWNERS.length && !ONLY_OWNERS.includes(owner.toLowerCase())) continue;
 
     const commits = await countCommits(owner, repo.name);
-    if (!commits) continue;
+    if (commits < MIN_COMMITS) continue;
 
     const key = labelFor(owner);
     const entry = byOwner.get(key) || { label: key, value: 0, repos: 0, private: 0 };
