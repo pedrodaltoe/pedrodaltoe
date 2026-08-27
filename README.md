@@ -73,16 +73,14 @@
 
 <table>
 <tr>
-<td width="50%"><img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=pedrodaltoe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" width="100%"/></td>
-<td width="50%"><img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=pedrodaltoe&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" width="100%"/></td>
+<td width="50%"><img src="https://raw.githubusercontent.com/pedrodaltoe/pedrodaltoe/main/generated/stats-private.svg" width="100%"/></td>
+<td width="50%"><img src="https://raw.githubusercontent.com/pedrodaltoe/pedrodaltoe/main/generated/languages-private.svg" width="100%"/></td>
 </tr>
 </table>
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=pedrodaltoe&theme=tokyonight&hide_border=true&background=00000000"/>
-
-<img src="https://raw.githubusercontent.com/pedrodaltoe/pedrodaltoe/main/generated/languages-private.svg"/>
 
 </div>
 

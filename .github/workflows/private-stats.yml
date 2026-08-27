@@ -1,4 +1,4 @@
-name: generate private language stats
+name: generate private stats
 
 on:
   schedule:
@@ -25,10 +25,15 @@ jobs:
           PAT_TOKEN: ${{ secrets.README }}
         run: node scripts/generate-lang-stats.mjs
 
+      - name: generate full stats
+        env:
+          PAT_TOKEN: ${{ secrets.README }}
+        run: node scripts/generate-full-stats.mjs
+
       - name: commit and push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add generated/languages-private.svg
-          git diff --staged --quiet || git commit -m "chore: update private language stats"
+          git add generated/languages-private.svg generated/stats-private.svg
+          git diff --staged --quiet || git commit -m "chore: update private stats"
           git push
