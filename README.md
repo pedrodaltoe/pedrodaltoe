@@ -92,7 +92,7 @@
 </tr>
 <tr>
 <td width="50%" valign="top"><img src="https://raw.githubusercontent.com/pedrodaltoe/pedrodaltoe/main/generated/orgs-private.svg" width="100%"/></td>
-<td width="50%" valign="top"><img src="https://streak-stats.demolab.com?user=pedrodaltoe&theme=tokyonight&hide_border=true&background=00000000" width="100%"/></td>
+<td width="50%" valign="top"><img src="https://streak-stats.demolab.com?user=pedrodaltoe&theme=tokyonight&hide_border=true&background=0a0e27&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&sideLabels=e6e6f0&dates=7a7f9e&sideNums=e6e6f0&currStreakNum=00F7FF" width="100%"/></td>
 </tr>
 </table>
 
