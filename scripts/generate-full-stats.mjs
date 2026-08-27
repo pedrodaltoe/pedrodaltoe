@@ -15,8 +15,8 @@ import { statsCard, fmt } from "./lib/svg.mjs";
  * so there is no double counting).
  */
 const CONTRIB_QUERY = `
-  query($login: String!, $from: DateTime!, $to: DateTime!) {
-    user(login: $login) {
+  query($from: DateTime!, $to: DateTime!) {
+    viewer {
       contributionsCollection(from: $from, to: $to) {
         totalCommitContributions
         totalPullRequestContributions
@@ -31,7 +31,7 @@ const CONTRIB_QUERY = `
 
 const YEAR_MS = 365 * 24 * 60 * 60 * 1000;
 
-async function totalContributions(login) {
+async function totalContributions() {
   const me = await gh("/user");
   const created = new Date(me.created_at);
   const now = new Date();
@@ -49,11 +49,10 @@ async function totalContributions(login) {
   while (from < now) {
     const to = new Date(Math.min(from.getTime() + YEAR_MS, now.getTime()));
     const data = await graphql(CONTRIB_QUERY, {
-      login,
       from: from.toISOString(),
       to: to.toISOString(),
     });
-    const c = data.user.contributionsCollection;
+    const c = data.viewer.contributionsCollection;
     totals.commits += c.totalCommitContributions;
     totals.prs += c.totalPullRequestContributions;
     totals.reviews += c.totalPullRequestReviewContributions;
@@ -63,12 +62,12 @@ async function totalContributions(login) {
     from = to;
   }
 
-  // The calendar total already includes private contributions for the authenticated
-  // user; the typed totals + restricted is the belt-and-braces version. Take the
-  // larger of the two so the headline number is never understated.
+  // contributionCalendar.totalContributions is exactly the number GitHub prints on
+  // the profile (private included, since we query as `viewer`). typedSum is the
+  // fallback in case the calendar comes back empty.
   const typedSum =
     totals.commits + totals.prs + totals.reviews + totals.issues + totals.restricted;
-  totals.total = Math.max(totals.calendar, typedSum);
+  totals.total = totals.calendar || typedSum;
 
   return totals;
 }
@@ -81,8 +80,7 @@ async function totalStars() {
 }
 
 async function main() {
-  const login = process.env.GH_USERNAME || "pedrodaltoe";
-  const [c, stars] = await Promise.all([totalContributions(login), totalStars()]);
+  const [c, stars] = await Promise.all([totalContributions(), totalStars()]);
 
   const rows = [
     ["Total Contributions", fmt(c.total), { highlight: true, rule: true }],
