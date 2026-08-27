@@ -1,6 +1,4 @@
-Aqui está o README completo com a linha nova adicionada (logo depois do streak-stats, dentro da seção "📊 Metrics Dashboard"):
 
-```markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:090979,100:00F7FF&height=220&section=header&text=Pedro%20Dalto%C3%A9&fontSize=48&fontColor=00F7FF&fontAlignY=35&desc=Creative%20Software%20Architect%20%40%20Cakto&descAlignY=52&descSize=18&descColor=e6e6f0&animation=fadeIn"/>
@@ -136,6 +134,4 @@ Aqui está o README completo com a linha nova adicionada (logo depois do streak-
 ### 💬 *"Secure. Scalable. Built for the real world."*
 
 </div>
-```
 
-A única mudança em relação ao que estava lá é a linha `<img src=".../generated/languages-private.svg"/>` adicionada logo depois do streak-stats. Cole isso em [github.com/pedrodaltoe/pedrodaltoe/edit/main/README.md](https://github.com/pedrodaltoe/pedrodaltoe/edit/main/README.md) substituindo tudo, e commit. Me avisa quando terminar que eu confirmo se a Action rodou certo e o card apareceu.
