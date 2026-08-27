@@ -1,16 +1,22 @@
-<svg width="380" height="220" viewBox="0 0 380 220" xmlns="http://www.w3.org/2000/svg">
-  <rect width="380" height="220" rx="10" fill="#0a0e27" stroke="#00F7FF" stroke-width="1"/>
-  <text x="20" y="28" fill="#00F7FF" font-size="16" font-weight="bold" font-family="JetBrains Mono, monospace">GitHub Stats (incl. private)</text>
-  <line x1="20" y1="38" x2="360" y2="38" stroke="#1a1f3a" stroke-width="1"/>
-  
-  <text x="20" y="65" fill="#e6e6f0" font-size="14" font-family="JetBrains Mono, monospace">Total Commits (all-time)</text>
-  <text x="360" y="65" fill="#00F7FF" font-size="14" font-weight="bold" font-family="JetBrains Mono, monospace" text-anchor="end">23</text>
-  <text x="20" y="97" fill="#e6e6f0" font-size="14" font-family="JetBrains Mono, monospace">Total Pull Requests</text>
-  <text x="360" y="97" fill="#00F7FF" font-size="14" font-weight="bold" font-family="JetBrains Mono, monospace" text-anchor="end">1</text>
-  <text x="20" y="129" fill="#e6e6f0" font-size="14" font-family="JetBrains Mono, monospace">Total PR Reviews</text>
-  <text x="360" y="129" fill="#00F7FF" font-size="14" font-weight="bold" font-family="JetBrains Mono, monospace" text-anchor="end">0</text>
-  <text x="20" y="161" fill="#e6e6f0" font-size="14" font-family="JetBrains Mono, monospace">Total Issues</text>
-  <text x="360" y="161" fill="#00F7FF" font-size="14" font-weight="bold" font-family="JetBrains Mono, monospace" text-anchor="end">0</text>
-  <text x="20" y="193" fill="#e6e6f0" font-size="14" font-family="JetBrains Mono, monospace">Total Stars Earned</text>
-  <text x="360" y="193" fill="#00F7FF" font-size="14" font-weight="bold" font-family="JetBrains Mono, monospace" text-anchor="end">0</text>
+<svg width="380" height="298" viewBox="0 0 380 298" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GitHub Stats — all time">
+  <rect width="380" height="298" rx="10" fill="#0a0e27" stroke="#00F7FF" stroke-width="1"/>
+  <text x="20" y="28" fill="#00F7FF" font-size="15" font-weight="bold" font-family="JetBrains Mono, DejaVu Sans Mono, Menlo, Consolas, monospace">GitHub Stats — all time</text>
+  <line x1="20" y1="40" x2="360" y2="40" stroke="#252c52" stroke-width="1"/>
+  <text x="20" y="62" fill="#00F7FF" font-size="13" font-weight="bold" font-family="JetBrains Mono, DejaVu Sans Mono, Menlo, Consolas, monospace">Total Contributions</text>
+  <text x="360" y="62" fill="#00F7FF" font-size="13" font-weight="bold" font-family="JetBrains Mono, DejaVu Sans Mono, Menlo, Consolas, monospace" text-anchor="end">1,192</text>
+  <line x1="20" y1="71" x2="360" y2="71" stroke="#252c52" stroke-width="1"/>
+  <text x="20" y="92" fill="#e6e6f0" font-size="13" font-weight="normal" font-family="JetBrains Mono, DejaVu Sans Mono, Menlo, Consolas, monospace">Commits</text>
+  <text x="360" y="92" fill="#00F7FF" font-size="13" font-weight="bold" font-family="JetBrains Mono, DejaVu Sans Mono, Menlo, Consolas, monospace" text-anchor="end">23</text>
+  <text x="20" y="122" fill="#e6e6f0" font-size="13" font-weight="normal" font-family="JetBrains Mono, DejaVu Sans Mono, Menlo, Consolas, monospace">Pull Requests</text>
+  <text x="360" y="122" fill="#00F7FF" font-size="13" font-weight="bold" font-family="JetBrains Mono, DejaVu Sans Mono, Menlo, Consolas, monospace" text-anchor="end">1</text>
+  <text x="20" y="152" fill="#e6e6f0" font-size="13" font-weight="normal" font-family="JetBrains Mono, DejaVu Sans Mono, Menlo, Consolas, monospace">PR Reviews</text>
+  <text x="360" y="152" fill="#00F7FF" font-size="13" font-weight="bold" font-family="JetBrains Mono, DejaVu Sans Mono, Menlo, Consolas, monospace" text-anchor="end">0</text>
+  <text x="20" y="182" fill="#e6e6f0" font-size="13" font-weight="normal" font-family="JetBrains Mono, DejaVu Sans Mono, Menlo, Consolas, monospace">Issues</text>
+  <text x="360" y="182" fill="#00F7FF" font-size="13" font-weight="bold" font-family="JetBrains Mono, DejaVu Sans Mono, Menlo, Consolas, monospace" text-anchor="end">0</text>
+  <text x="20" y="212" fill="#e6e6f0" font-size="13" font-weight="normal" font-family="JetBrains Mono, DejaVu Sans Mono, Menlo, Consolas, monospace">Private / org work</text>
+  <text x="360" y="212" fill="#00F7FF" font-size="13" font-weight="bold" font-family="JetBrains Mono, DejaVu Sans Mono, Menlo, Consolas, monospace" text-anchor="end">1,161</text>
+  <line x1="20" y1="221" x2="360" y2="221" stroke="#252c52" stroke-width="1"/>
+  <text x="20" y="242" fill="#e6e6f0" font-size="13" font-weight="normal" font-family="JetBrains Mono, DejaVu Sans Mono, Menlo, Consolas, monospace">Stars Earned</text>
+  <text x="360" y="242" fill="#00F7FF" font-size="13" font-weight="bold" font-family="JetBrains Mono, DejaVu Sans Mono, Menlo, Consolas, monospace" text-anchor="end">0</text>
+  <text x="20" y="288" fill="#7a7f9e" font-size="10" font-family="JetBrains Mono, DejaVu Sans Mono, Menlo, Consolas, monospace">Includes private and organization repositories</text>
 </svg>
