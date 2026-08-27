@@ -1,0 +1,16 @@
+<svg width="380" height="220" viewBox="0 0 380 220" xmlns="http://www.w3.org/2000/svg">
+  <rect width="380" height="220" rx="10" fill="#0a0e27" stroke="#00F7FF" stroke-width="1"/>
+  <text x="20" y="28" fill="#00F7FF" font-size="16" font-weight="bold" font-family="JetBrains Mono, monospace">GitHub Stats (incl. private)</text>
+  <line x1="20" y1="38" x2="360" y2="38" stroke="#1a1f3a" stroke-width="1"/>
+  
+  <text x="20" y="65" fill="#e6e6f0" font-size="14" font-family="JetBrains Mono, monospace">Total Commits (all-time)</text>
+  <text x="360" y="65" fill="#00F7FF" font-size="14" font-weight="bold" font-family="JetBrains Mono, monospace" text-anchor="end">23</text>
+  <text x="20" y="97" fill="#e6e6f0" font-size="14" font-family="JetBrains Mono, monospace">Total Pull Requests</text>
+  <text x="360" y="97" fill="#00F7FF" font-size="14" font-weight="bold" font-family="JetBrains Mono, monospace" text-anchor="end">1</text>
+  <text x="20" y="129" fill="#e6e6f0" font-size="14" font-family="JetBrains Mono, monospace">Total PR Reviews</text>
+  <text x="360" y="129" fill="#00F7FF" font-size="14" font-weight="bold" font-family="JetBrains Mono, monospace" text-anchor="end">0</text>
+  <text x="20" y="161" fill="#e6e6f0" font-size="14" font-family="JetBrains Mono, monospace">Total Issues</text>
+  <text x="360" y="161" fill="#00F7FF" font-size="14" font-weight="bold" font-family="JetBrains Mono, monospace" text-anchor="end">0</text>
+  <text x="20" y="193" fill="#e6e6f0" font-size="14" font-family="JetBrains Mono, monospace">Total Stars Earned</text>
+  <text x="360" y="193" fill="#00F7FF" font-size="14" font-weight="bold" font-family="JetBrains Mono, monospace" text-anchor="end">0</text>
+</svg>
