@@ -8,9 +8,9 @@
   <rect x="20" y="66" width="340.0" height="7" rx="3.5" fill="#00F7FF"/>
   <text x="20" y="90" fill="#7a7f9e" font-size="10" font-family="JetBrains Mono, DejaVu Sans Mono, Menlo, Consolas, monospace">8 repos · 7 private</text>
   <text x="20" y="112" fill="#e6e6f0" font-size="13" font-family="JetBrains Mono, DejaVu Sans Mono, Menlo, Consolas, monospace">Cakto</text>
-  <text x="360" y="112" fill="#7C5CFF" font-size="13" font-weight="bold" font-family="JetBrains Mono, DejaVu Sans Mono, Menlo, Consolas, monospace" text-anchor="end">330 commits</text>
+  <text x="360" y="112" fill="#7C5CFF" font-size="13" font-weight="bold" font-family="JetBrains Mono, DejaVu Sans Mono, Menlo, Consolas, monospace" text-anchor="end">332 commits</text>
   <rect x="20" y="120" width="340" height="7" rx="3.5" fill="#252c52"/>
-  <rect x="20" y="120" width="309.9" height="7" rx="3.5" fill="#7C5CFF"/>
+  <rect x="20" y="120" width="311.8" height="7" rx="3.5" fill="#7C5CFF"/>
   <text x="20" y="144" fill="#7a7f9e" font-size="10" font-family="JetBrains Mono, DejaVu Sans Mono, Menlo, Consolas, monospace">2 repos · 2 private</text>
   <text x="20" y="180" fill="#7a7f9e" font-size="10" font-family="JetBrains Mono, DejaVu Sans Mono, Menlo, Consolas, monospace">Public + private + organization repos</text>
 </svg>
