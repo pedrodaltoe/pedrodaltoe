@@ -69,23 +69,11 @@
 
 ---
 
-## 🏦 Cakto — Fintech
-
-**Creative Software Architect** · plataforma de pagamentos
-
-- 💸 Módulo **Banking / Statement** — arquitetura, filtros e detalhes de transação
-- 📲 App **React Native + Expo** — performance, DX e release em produção
-- 🌐 Front-end **Next.js / TypeScript**
-- 🔐 Fluxos financeiros (PIX, extrato, conciliação) com padrão de segurança bancário
-
-> A maior parte do meu código vive em repositórios **privados** da Cakto.
-> As métricas abaixo já contabilizam esse trabalho.
-
 ---
 
 ## 📊 Metrics Dashboard
 
-<table>
+<!-- <table>
 <tr>
 <td width="50%" valign="top"><img src="https://raw.githubusercontent.com/pedrodaltoe/pedrodaltoe/main/generated/stats-private.svg" width="100%"/></td>
 <td width="50%" valign="top"><img src="https://raw.githubusercontent.com/pedrodaltoe/pedrodaltoe/main/generated/languages-private.svg" width="100%"/></td>
@@ -94,7 +82,7 @@
 <td width="50%" valign="top"><img src="https://raw.githubusercontent.com/pedrodaltoe/pedrodaltoe/main/generated/orgs-private.svg" width="100%"/></td>
 <td width="50%" valign="top"><img src="https://streak-stats.demolab.com?user=pedrodaltoe&theme=tokyonight&hide_border=true&background=0a0e27&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&sideLabels=e6e6f0&dates=7a7f9e&sideNums=e6e6f0&currStreakNum=00F7FF" width="100%"/></td>
 </tr>
-</table>
+</table> -->
 
 <div align="center">
 <sub>📈 Inclui repositórios privados e de organização — inclusive o trabalho na <b>Cakto</b>. Atualizado diariamente via GitHub Actions.</sub>
