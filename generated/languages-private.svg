@@ -1,14 +1,14 @@
 <svg width="380" height="310" viewBox="0 0 380 310" xmlns="http://www.w3.org/2000/svg">
   <rect width="380" height="310" rx="10" fill="#0a0e27" stroke="#00F7FF" stroke-width="1"/>
   <text x="20" y="28" fill="#00F7FF" font-size="16" font-weight="bold" font-family="JetBrains Mono, monospace">Most Used Languages (incl. private)</text>
-  <rect x="20" y="50" width="340" height="8" rx="4" fill="#1a1f3a"/><rect x="20" y="50" width="180.32762842673878" height="8" fill="#3178c6"/><rect x="200.32762842673878" y="50" width="140.60732116955614" height="8" fill="#f1e05a"/><rect x="340.9349495962949" y="50" width="8.064629931876299" height="8" fill="#8b8b8b"/><rect x="348.99957952817124" y="50" width="6.887556008284969" height="8" fill="#563d7c"/><rect x="355.8871355364562" y="50" width="1.6955605472325546" height="8" fill="#8b8b8b"/><rect x="357.58269608368875" y="50" width="1.3701403083849697" height="8" fill="#e34c26"/><rect x="358.9528363920737" y="50" width="0.30998029847813524" height="8" fill="#A97BFF"/><rect x="359.26281669055186" y="50" width="0.24604551931350943" height="8" fill="#3572A5"/>
+  <rect x="20" y="50" width="340" height="8" rx="4" fill="#1a1f3a"/><rect x="20" y="50" width="180.36391289146556" height="8" fill="#3178c6"/><rect x="200.36391289146556" y="50" width="140.5753691083759" height="8" fill="#f1e05a"/><rect x="340.93928199984146" y="50" width="8.06279729935876" height="8" fill="#8b8b8b"/><rect x="349.0020792992002" y="50" width="6.885990857842385" height="8" fill="#563d7c"/><rect x="355.8880701570426" y="50" width="1.6951752425849065" height="8" fill="#8b8b8b"/><rect x="357.5832453996275" y="50" width="1.3698289532820143" height="8" fill="#e34c26"/><rect x="358.95307435290954" y="50" width="0.30990985755529243" height="8" fill="#A97BFF"/><rect x="359.2629842104648" y="50" width="0.24598960713610052" height="8" fill="#3572A5"/>
   
   <circle cx="26" cy="81" r="5" fill="#3178c6"/>
   <text x="40" y="85" fill="#e6e6f0" font-size="13" font-family="JetBrains Mono, monospace">TypeScript</text>
   <text x="360" y="85" fill="#7a7f9e" font-size="13" font-family="JetBrains Mono, monospace" text-anchor="end">53.0%</text>
   <circle cx="26" cy="111" r="5" fill="#f1e05a"/>
   <text x="40" y="115" fill="#e6e6f0" font-size="13" font-family="JetBrains Mono, monospace">JavaScript</text>
-  <text x="360" y="115" fill="#7a7f9e" font-size="13" font-family="JetBrains Mono, monospace" text-anchor="end">41.4%</text>
+  <text x="360" y="115" fill="#7a7f9e" font-size="13" font-family="JetBrains Mono, monospace" text-anchor="end">41.3%</text>
   <circle cx="26" cy="141" r="5" fill="#8b8b8b"/>
   <text x="40" y="145" fill="#e6e6f0" font-size="13" font-family="JetBrains Mono, monospace">PLpgSQL</text>
   <text x="360" y="145" fill="#7a7f9e" font-size="13" font-family="JetBrains Mono, monospace" text-anchor="end">2.4%</text>
