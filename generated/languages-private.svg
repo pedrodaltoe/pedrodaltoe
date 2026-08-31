@@ -1,7 +1,7 @@
 <svg width="380" height="310" viewBox="0 0 380 310" xmlns="http://www.w3.org/2000/svg">
   <rect width="380" height="310" rx="10" fill="#0a0e27" stroke="#00F7FF" stroke-width="1"/>
   <text x="20" y="28" fill="#00F7FF" font-size="16" font-weight="bold" font-family="JetBrains Mono, monospace">Most Used Languages (incl. private)</text>
-  <rect x="20" y="50" width="340" height="8" rx="4" fill="#1a1f3a"/><rect x="20" y="50" width="180.38291348942437" height="8" fill="#3178c6"/><rect x="200.38291348942437" y="50" width="140.48265939420835" height="8" fill="#f1e05a"/><rect x="340.8655728836327" y="50" width="8.057479869728265" height="8" fill="#8b8b8b"/><rect x="348.92305275336093" y="50" width="6.96772922896676" height="8" fill="#563d7c"/><rect x="355.89078198232767" y="50" width="1.6940572713983413" height="8" fill="#8b8b8b"/><rect x="357.584839253726" y="50" width="1.3689255485709138" height="8" fill="#e34c26"/><rect x="358.9537648022969" y="50" width="0.3097054714349223" height="8" fill="#A97BFF"/><rect x="359.26347027373185" y="50" width="0.245827376538305" height="8" fill="#3572A5"/>
+  <rect x="20" y="50" width="340" height="8" rx="4" fill="#1a1f3a"/><rect x="20" y="50" width="180.43370684864843" height="8" fill="#3178c6"/><rect x="200.43370684864843" y="50" width="140.4273337016823" height="8" fill="#f1e05a"/><rect x="340.8610405503307" y="50" width="8.054306626455896" height="8" fill="#8b8b8b"/><rect x="348.9153471767866" y="50" width="6.977053121520848" height="8" fill="#563d7c"/><rect x="355.89240029830745" y="50" width="1.6933901079767268" height="8" fill="#8b8b8b"/><rect x="357.58579040628416" y="50" width="1.3683864304027507" height="8" fill="#e34c26"/><rect x="358.9541768366869" y="50" width="0.3095835014369159" height="8" fill="#A97BFF"/><rect x="359.2637603381238" y="50" width="0.2457305633806705" height="8" fill="#3572A5"/>
   
   <circle cx="26" cy="81" r="5" fill="#3178c6"/>
   <text x="40" y="85" fill="#e6e6f0" font-size="13" font-family="JetBrains Mono, monospace">TypeScript</text>
@@ -14,7 +14,7 @@
   <text x="360" y="145" fill="#7a7f9e" font-size="13" font-family="JetBrains Mono, monospace" text-anchor="end">2.4%</text>
   <circle cx="26" cy="171" r="5" fill="#563d7c"/>
   <text x="40" y="175" fill="#e6e6f0" font-size="13" font-family="JetBrains Mono, monospace">CSS</text>
-  <text x="360" y="175" fill="#7a7f9e" font-size="13" font-family="JetBrains Mono, monospace" text-anchor="end">2.0%</text>
+  <text x="360" y="175" fill="#7a7f9e" font-size="13" font-family="JetBrains Mono, monospace" text-anchor="end">2.1%</text>
   <circle cx="26" cy="201" r="5" fill="#8b8b8b"/>
   <text x="40" y="205" fill="#e6e6f0" font-size="13" font-family="JetBrains Mono, monospace">SCSS</text>
   <text x="360" y="205" fill="#7a7f9e" font-size="13" font-family="JetBrains Mono, monospace" text-anchor="end">0.5%</text>
