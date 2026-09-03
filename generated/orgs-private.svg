@@ -3,14 +3,14 @@
   <text x="20" y="28" fill="#00F7FF" font-size="15" font-weight="bold" font-family="JetBrains Mono, DejaVu Sans Mono, Menlo, Consolas, monospace">Where I Ship</text>
   <line x1="20" y1="40" x2="360" y2="40" stroke="#252c52" stroke-width="1"/>
   <text x="20" y="58" fill="#e6e6f0" font-size="13" font-family="JetBrains Mono, DejaVu Sans Mono, Menlo, Consolas, monospace">Personal / OSS</text>
-  <text x="360" y="58" fill="#00F7FF" font-size="13" font-weight="bold" font-family="JetBrains Mono, DejaVu Sans Mono, Menlo, Consolas, monospace" text-anchor="end">391 commits</text>
+  <text x="360" y="58" fill="#00F7FF" font-size="13" font-weight="bold" font-family="JetBrains Mono, DejaVu Sans Mono, Menlo, Consolas, monospace" text-anchor="end">394 commits</text>
   <rect x="20" y="66" width="340" height="7" rx="3.5" fill="#252c52"/>
   <rect x="20" y="66" width="340.0" height="7" rx="3.5" fill="#00F7FF"/>
   <text x="20" y="90" fill="#7a7f9e" font-size="10" font-family="JetBrains Mono, DejaVu Sans Mono, Menlo, Consolas, monospace">9 repos · 8 private</text>
   <text x="20" y="112" fill="#e6e6f0" font-size="13" font-family="JetBrains Mono, DejaVu Sans Mono, Menlo, Consolas, monospace">Cakto</text>
   <text x="360" y="112" fill="#7C5CFF" font-size="13" font-weight="bold" font-family="JetBrains Mono, DejaVu Sans Mono, Menlo, Consolas, monospace" text-anchor="end">340 commits</text>
   <rect x="20" y="120" width="340" height="7" rx="3.5" fill="#252c52"/>
-  <rect x="20" y="120" width="295.7" height="7" rx="3.5" fill="#7C5CFF"/>
+  <rect x="20" y="120" width="293.4" height="7" rx="3.5" fill="#7C5CFF"/>
   <text x="20" y="144" fill="#7a7f9e" font-size="10" font-family="JetBrains Mono, DejaVu Sans Mono, Menlo, Consolas, monospace">2 repos · 2 private</text>
   <text x="20" y="180" fill="#7a7f9e" font-size="10" font-family="JetBrains Mono, DejaVu Sans Mono, Menlo, Consolas, monospace">Public + private + organization repos</text>
 </svg>
