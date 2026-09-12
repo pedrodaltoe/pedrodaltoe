@@ -1,29 +1,29 @@
 <svg width="380" height="310" viewBox="0 0 380 310" xmlns="http://www.w3.org/2000/svg">
   <rect width="380" height="310" rx="10" fill="#0a0e27" stroke="#00F7FF" stroke-width="1"/>
   <text x="20" y="28" fill="#00F7FF" font-size="16" font-weight="bold" font-family="JetBrains Mono, monospace">Most Used Languages (incl. private)</text>
-  <rect x="20" y="50" width="340" height="8" rx="4" fill="#1a1f3a"/><rect x="20" y="50" width="178.20209860889412" height="8" fill="#3178c6"/><rect x="198.20209860889412" y="50" width="139.48470714801672" height="8" fill="#f1e05a"/><rect x="337.68680575691087" y="50" width="7.79989197997949" height="8" fill="#8b8b8b"/><rect x="345.48669773689033" y="50" width="7.061043665505192" height="8" fill="#563d7c"/><rect x="352.5477414023955" y="50" width="2.3255920203636418" height="8" fill="#e34c26"/><rect x="354.8733334227591" y="50" width="2.2441329218626067" height="8" fill="#8b8b8b"/><rect x="357.11746634462173" y="50" width="2.178282157109443" height="8" fill="#3572A5"/><rect x="359.29574850173117" y="50" width="0.2869149757729815" height="8" fill="#A97BFF"/>
+  <rect x="20" y="50" width="340" height="8" rx="4" fill="#1a1f3a"/><rect x="20" y="50" width="178.43014884128328" height="8" fill="#3178c6"/><rect x="198.43014884128328" y="50" width="139.07189190255409" height="8" fill="#f1e05a"/><rect x="337.50204074383737" y="50" width="7.766401047888752" height="8" fill="#8b8b8b"/><rect x="345.2684417917261" y="50" width="7.0311087606012235" height="8" fill="#563d7c"/><rect x="352.29955055232733" y="50" width="2.4491182421718594" height="8" fill="#3572A5"/><rect x="354.74866879449917" y="50" width="2.3156064661245988" height="8" fill="#e34c26"/><rect x="357.0642752606238" y="50" width="2.234497134151494" height="8" fill="#8b8b8b"/><rect x="359.29877239477526" y="50" width="0.2856830292288379" height="8" fill="#A97BFF"/>
   
   <circle cx="26" cy="81" r="5" fill="#3178c6"/>
   <text x="40" y="85" fill="#e6e6f0" font-size="13" font-family="JetBrains Mono, monospace">TypeScript</text>
-  <text x="360" y="85" fill="#7a7f9e" font-size="13" font-family="JetBrains Mono, monospace" text-anchor="end">52.4%</text>
+  <text x="360" y="85" fill="#7a7f9e" font-size="13" font-family="JetBrains Mono, monospace" text-anchor="end">52.5%</text>
   <circle cx="26" cy="111" r="5" fill="#f1e05a"/>
   <text x="40" y="115" fill="#e6e6f0" font-size="13" font-family="JetBrains Mono, monospace">JavaScript</text>
-  <text x="360" y="115" fill="#7a7f9e" font-size="13" font-family="JetBrains Mono, monospace" text-anchor="end">41.0%</text>
+  <text x="360" y="115" fill="#7a7f9e" font-size="13" font-family="JetBrains Mono, monospace" text-anchor="end">40.9%</text>
   <circle cx="26" cy="141" r="5" fill="#8b8b8b"/>
   <text x="40" y="145" fill="#e6e6f0" font-size="13" font-family="JetBrains Mono, monospace">PLpgSQL</text>
   <text x="360" y="145" fill="#7a7f9e" font-size="13" font-family="JetBrains Mono, monospace" text-anchor="end">2.3%</text>
   <circle cx="26" cy="171" r="5" fill="#563d7c"/>
   <text x="40" y="175" fill="#e6e6f0" font-size="13" font-family="JetBrains Mono, monospace">CSS</text>
   <text x="360" y="175" fill="#7a7f9e" font-size="13" font-family="JetBrains Mono, monospace" text-anchor="end">2.1%</text>
-  <circle cx="26" cy="201" r="5" fill="#e34c26"/>
-  <text x="40" y="205" fill="#e6e6f0" font-size="13" font-family="JetBrains Mono, monospace">HTML</text>
+  <circle cx="26" cy="201" r="5" fill="#3572A5"/>
+  <text x="40" y="205" fill="#e6e6f0" font-size="13" font-family="JetBrains Mono, monospace">Python</text>
   <text x="360" y="205" fill="#7a7f9e" font-size="13" font-family="JetBrains Mono, monospace" text-anchor="end">0.7%</text>
-  <circle cx="26" cy="231" r="5" fill="#8b8b8b"/>
-  <text x="40" y="235" fill="#e6e6f0" font-size="13" font-family="JetBrains Mono, monospace">SCSS</text>
+  <circle cx="26" cy="231" r="5" fill="#e34c26"/>
+  <text x="40" y="235" fill="#e6e6f0" font-size="13" font-family="JetBrains Mono, monospace">HTML</text>
   <text x="360" y="235" fill="#7a7f9e" font-size="13" font-family="JetBrains Mono, monospace" text-anchor="end">0.7%</text>
-  <circle cx="26" cy="261" r="5" fill="#3572A5"/>
-  <text x="40" y="265" fill="#e6e6f0" font-size="13" font-family="JetBrains Mono, monospace">Python</text>
-  <text x="360" y="265" fill="#7a7f9e" font-size="13" font-family="JetBrains Mono, monospace" text-anchor="end">0.6%</text>
+  <circle cx="26" cy="261" r="5" fill="#8b8b8b"/>
+  <text x="40" y="265" fill="#e6e6f0" font-size="13" font-family="JetBrains Mono, monospace">SCSS</text>
+  <text x="360" y="265" fill="#7a7f9e" font-size="13" font-family="JetBrains Mono, monospace" text-anchor="end">0.7%</text>
   <circle cx="26" cy="291" r="5" fill="#A97BFF"/>
   <text x="40" y="295" fill="#e6e6f0" font-size="13" font-family="JetBrains Mono, monospace">Kotlin</text>
   <text x="360" y="295" fill="#7a7f9e" font-size="13" font-family="JetBrains Mono, monospace" text-anchor="end">0.1%</text>
