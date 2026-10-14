@@ -1,11 +1,11 @@
 <svg width="380" height="310" viewBox="0 0 380 310" xmlns="http://www.w3.org/2000/svg">
   <rect width="380" height="310" rx="10" fill="#0a0e27" stroke="#00F7FF" stroke-width="1"/>
   <text x="20" y="28" fill="#00F7FF" font-size="16" font-weight="bold" font-family="JetBrains Mono, monospace">Most Used Languages (incl. private)</text>
-  <rect x="20" y="50" width="340" height="8" rx="4" fill="#1a1f3a"/><rect x="20" y="50" width="172.6645303852471" height="8" fill="#3178c6"/><rect x="192.6645303852471" y="50" width="131.85382053184398" height="8" fill="#f1e05a"/><rect x="324.5183509170911" y="50" width="8.975487383936844" height="8" fill="#563d7c"/><rect x="333.49383830102795" y="50" width="8.150047020385841" height="8" fill="#8b8b8b"/><rect x="341.6438853214138" y="50" width="8.074076892726799" height="8" fill="#e34c26"/><rect x="349.7179622141406" y="50" width="7.7023924850981755" height="8" fill="#3572A5"/><rect x="357.42035469923877" y="50" width="1.6796113495724752" height="8" fill="#8b8b8b"/><rect x="359.09996604881127" y="50" width="0.512649546561097" height="8" fill="#F05138"/>
+  <rect x="20" y="50" width="340" height="8" rx="4" fill="#1a1f3a"/><rect x="20" y="50" width="173.1855408127844" height="8" fill="#3178c6"/><rect x="193.1855408127844" y="50" width="131.75189273572073" height="8" fill="#f1e05a"/><rect x="324.93743354850517" y="50" width="8.848810573024641" height="8" fill="#563d7c"/><rect x="333.7862441215298" y="50" width="8.123085745881797" height="8" fill="#8b8b8b"/><rect x="341.9093298674116" y="50" width="7.953749341570075" height="8" fill="#e34c26"/><rect x="349.8630792089817" y="50" width="7.59368367913934" height="8" fill="#3572A5"/><rect x="357.45676288812103" y="50" width="1.6559059171837487" height="8" fill="#8b8b8b"/><rect x="359.1126688053048" y="50" width="0.5054141946636425" height="8" fill="#F05138"/>
   
   <circle cx="26" cy="81" r="5" fill="#3178c6"/>
   <text x="40" y="85" fill="#e6e6f0" font-size="13" font-family="JetBrains Mono, monospace">TypeScript</text>
-  <text x="360" y="85" fill="#7a7f9e" font-size="13" font-family="JetBrains Mono, monospace" text-anchor="end">50.8%</text>
+  <text x="360" y="85" fill="#7a7f9e" font-size="13" font-family="JetBrains Mono, monospace" text-anchor="end">50.9%</text>
   <circle cx="26" cy="111" r="5" fill="#f1e05a"/>
   <text x="40" y="115" fill="#e6e6f0" font-size="13" font-family="JetBrains Mono, monospace">JavaScript</text>
   <text x="360" y="115" fill="#7a7f9e" font-size="13" font-family="JetBrains Mono, monospace" text-anchor="end">38.8%</text>
@@ -17,14 +17,14 @@
   <text x="360" y="175" fill="#7a7f9e" font-size="13" font-family="JetBrains Mono, monospace" text-anchor="end">2.4%</text>
   <circle cx="26" cy="201" r="5" fill="#e34c26"/>
   <text x="40" y="205" fill="#e6e6f0" font-size="13" font-family="JetBrains Mono, monospace">HTML</text>
-  <text x="360" y="205" fill="#7a7f9e" font-size="13" font-family="JetBrains Mono, monospace" text-anchor="end">2.4%</text>
+  <text x="360" y="205" fill="#7a7f9e" font-size="13" font-family="JetBrains Mono, monospace" text-anchor="end">2.3%</text>
   <circle cx="26" cy="231" r="5" fill="#3572A5"/>
   <text x="40" y="235" fill="#e6e6f0" font-size="13" font-family="JetBrains Mono, monospace">Python</text>
-  <text x="360" y="235" fill="#7a7f9e" font-size="13" font-family="JetBrains Mono, monospace" text-anchor="end">2.3%</text>
+  <text x="360" y="235" fill="#7a7f9e" font-size="13" font-family="JetBrains Mono, monospace" text-anchor="end">2.2%</text>
   <circle cx="26" cy="261" r="5" fill="#8b8b8b"/>
   <text x="40" y="265" fill="#e6e6f0" font-size="13" font-family="JetBrains Mono, monospace">SCSS</text>
   <text x="360" y="265" fill="#7a7f9e" font-size="13" font-family="JetBrains Mono, monospace" text-anchor="end">0.5%</text>
   <circle cx="26" cy="291" r="5" fill="#F05138"/>
   <text x="40" y="295" fill="#e6e6f0" font-size="13" font-family="JetBrains Mono, monospace">Swift</text>
-  <text x="360" y="295" fill="#7a7f9e" font-size="13" font-family="JetBrains Mono, monospace" text-anchor="end">0.2%</text>
+  <text x="360" y="295" fill="#7a7f9e" font-size="13" font-family="JetBrains Mono, monospace" text-anchor="end">0.1%</text>
 </svg>
