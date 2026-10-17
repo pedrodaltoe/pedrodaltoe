@@ -22,7 +22,7 @@
 <td width="55%" valign="top">
 
 ```diff
-+ Creative Software Architect — Cakto
++ Creative Software Architect 
 + Mobile • Web • Security • Fintech
 + React Native • React • Next.js
 # Clean Architecture • Performance • Scalability
@@ -84,9 +84,7 @@
 </tr>
 </table> -->
 
-<div align="center">
-<sub>📈 Inclui repositórios privados e de organização — inclusive o trabalho na <b>Cakto</b>. Atualizado diariamente via GitHub Actions.</sub>
-</div>
+
 
 ---
 
