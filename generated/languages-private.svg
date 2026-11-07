@@ -1,23 +1,23 @@
 <svg width="380" height="310" viewBox="0 0 380 310" xmlns="http://www.w3.org/2000/svg">
   <rect width="380" height="310" rx="10" fill="#0a0e27" stroke="#00F7FF" stroke-width="1"/>
   <text x="20" y="28" fill="#00F7FF" font-size="16" font-weight="bold" font-family="JetBrains Mono, monospace">Most Used Languages (incl. private)</text>
-  <rect x="20" y="50" width="340" height="8" rx="4" fill="#1a1f3a"/><rect x="20" y="50" width="163.0848171589589" height="8" fill="#3572A5"/><rect x="183.0848171589589" y="50" width="102.34352284692969" height="8" fill="#3178c6"/><rect x="285.4283400058886" y="50" width="56.001288434270606" height="8" fill="#f1e05a"/><rect x="341.42962844015915" y="50" width="8.127706046601226" height="8" fill="#e34c26"/><rect x="349.5573344867604" y="50" width="4.8868706371011665" height="8" fill="#563d7c"/><rect x="354.44420512386154" y="50" width="3.111928182413481" height="8" fill="#8b8b8b"/><rect x="357.556133306275" y="50" width="1.4600539837030628" height="8" fill="#8b8b8b"/><rect x="359.01618728997806" y="50" width="0.5564277560815902" height="8" fill="#8b8b8b"/>
+  <rect x="20" y="50" width="340" height="8" rx="4" fill="#1a1f3a"/><rect x="20" y="50" width="163.74362851787603" height="8" fill="#3572A5"/><rect x="183.74362851787603" y="50" width="101.95004067021817" height="8" fill="#3178c6"/><rect x="285.6936691880942" y="50" width="55.76831885736955" height="8" fill="#f1e05a"/><rect x="341.4619880454637" y="50" width="8.125533539467963" height="8" fill="#e34c26"/><rect x="349.58752158493166" y="50" width="4.93164561286768" height="8" fill="#563d7c"/><rect x="354.51916719779933" y="50" width="3.067968167255257" height="8" fill="#8b8b8b"/><rect x="357.58713536505456" y="50" width="1.4429495533745231" height="8" fill="#8b8b8b"/><rect x="359.0300849184291" y="50" width="0.5485674935183221" height="8" fill="#8b8b8b"/>
   
   <circle cx="26" cy="81" r="5" fill="#3572A5"/>
   <text x="40" y="85" fill="#e6e6f0" font-size="13" font-family="JetBrains Mono, monospace">Python</text>
-  <text x="360" y="85" fill="#7a7f9e" font-size="13" font-family="JetBrains Mono, monospace" text-anchor="end">48.0%</text>
+  <text x="360" y="85" fill="#7a7f9e" font-size="13" font-family="JetBrains Mono, monospace" text-anchor="end">48.2%</text>
   <circle cx="26" cy="111" r="5" fill="#3178c6"/>
   <text x="40" y="115" fill="#e6e6f0" font-size="13" font-family="JetBrains Mono, monospace">TypeScript</text>
-  <text x="360" y="115" fill="#7a7f9e" font-size="13" font-family="JetBrains Mono, monospace" text-anchor="end">30.1%</text>
+  <text x="360" y="115" fill="#7a7f9e" font-size="13" font-family="JetBrains Mono, monospace" text-anchor="end">30.0%</text>
   <circle cx="26" cy="141" r="5" fill="#f1e05a"/>
   <text x="40" y="145" fill="#e6e6f0" font-size="13" font-family="JetBrains Mono, monospace">JavaScript</text>
-  <text x="360" y="145" fill="#7a7f9e" font-size="13" font-family="JetBrains Mono, monospace" text-anchor="end">16.5%</text>
+  <text x="360" y="145" fill="#7a7f9e" font-size="13" font-family="JetBrains Mono, monospace" text-anchor="end">16.4%</text>
   <circle cx="26" cy="171" r="5" fill="#e34c26"/>
   <text x="40" y="175" fill="#e6e6f0" font-size="13" font-family="JetBrains Mono, monospace">HTML</text>
   <text x="360" y="175" fill="#7a7f9e" font-size="13" font-family="JetBrains Mono, monospace" text-anchor="end">2.4%</text>
   <circle cx="26" cy="201" r="5" fill="#563d7c"/>
   <text x="40" y="205" fill="#e6e6f0" font-size="13" font-family="JetBrains Mono, monospace">CSS</text>
-  <text x="360" y="205" fill="#7a7f9e" font-size="13" font-family="JetBrains Mono, monospace" text-anchor="end">1.4%</text>
+  <text x="360" y="205" fill="#7a7f9e" font-size="13" font-family="JetBrains Mono, monospace" text-anchor="end">1.5%</text>
   <circle cx="26" cy="231" r="5" fill="#8b8b8b"/>
   <text x="40" y="235" fill="#e6e6f0" font-size="13" font-family="JetBrains Mono, monospace">PLpgSQL</text>
   <text x="360" y="235" fill="#7a7f9e" font-size="13" font-family="JetBrains Mono, monospace" text-anchor="end">0.9%</text>
